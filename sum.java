@@ -1,0 +1,8 @@
+public class sum{
+
+    public statis void main(String[] args)
+    int a=5;
+    int b=6;
+
+    System.out.println("The sum is" +(a+b);
+}
